@@ -1,2 +1,2 @@
 # AdvR
-*.Rproj
+
